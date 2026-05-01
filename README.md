@@ -36,7 +36,7 @@ The goal is to transform raw data into an **interactive dashboard** that helps i
 
 ### 🔹 Pivot Table 3
 
-![Pivot Table 3](Pivot Table 3.png)
+![Pivot Table 3](Pivot%20Table%203.png)
 
 ---
 
@@ -115,7 +115,7 @@ The goal is to transform raw data into an **interactive dashboard** that helps i
 
 ## 📌 Conclusion
 
-This project demonstrates how Excel can be used as a powerful tool for **data analysis and visualization**, turning raw data into actionable insights. ([Topan][2])
+This project demonstrates how Excel can be used as a powerful tool for **data analysis and visualization**, turning raw data into actionable insights.
 
 ---
 
