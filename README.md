@@ -28,11 +28,11 @@ The goal is to transform raw data into an **interactive dashboard** that helps i
 
 ### 🔹 Pivot Table 1
 
-![Pivot Table 1](pivot table 1.png)
+![Pivot Table 1](pivot%20table%201.png)
 
 ### 🔹 Pivot Table 2
 
-![Pivot Table 2](pivot table 2.png)
+![Pivot Table 2](pivot%20table%202.png)
 
 ### 🔹 Pivot Table 3
 
