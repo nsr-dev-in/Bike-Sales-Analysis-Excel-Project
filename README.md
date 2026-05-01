@@ -20,7 +20,7 @@ The goal is to transform raw data into an **interactive dashboard** that helps i
 
 ## 🗂️ Dataset Preview
 
-![Dataset](Sample Data set.png)
+![Dataset](Sample%20Data%20set.png)
 
 ---
 
