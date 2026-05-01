@@ -128,6 +128,7 @@ This project demonstrates how Excel can be used as a powerful tool for **data an
 ## 🙌 Author
 
 **Nitin Singh (NSR Dev)**
+
 Beginner Data Analyst | Learning from Scratch 📊
 
 
